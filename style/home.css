@@ -1,0 +1,21 @@
+div.home{
+    margin-top: 2rem;
+    max-width: 80vw;
+}
+.topotable{
+    background-color:#007bff;
+    color: white;
+    text-align: center;
+}
+
+a.botOs{
+    
+    align-items: flex-end;
+    background-color:#007bff;
+    color: white;
+    margin-bottom: 1rem;
+}
+.corpotable{
+    text-align: center;
+    
+}
