@@ -1,7 +1,26 @@
+div#header_central img {
+    margin-top:20px;
+}
+div#header_saudacao {
+    position: absolute;
+    top:0;
+    right:0px;
+    text-align: right;
+}
+
+div#header_saudacao h5 {
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 100;
+    margin:2px 0 0 0; 
+    padding:0; 
+}
+
 div.home{
     margin-top: 2rem;
-    max-width: 80vw;
+    /*max-width: 80vw;*/
 }
+
 .topotable{
     background-color:#007bff;
     color: white;
@@ -17,5 +36,4 @@ a.botOs{
 }
 .corpotable{
     text-align: center;
-    
 }
